@@ -98,3 +98,10 @@ Loyalty-Program-ROI-Dashboard/
 │
 ├── README.md
 ├── Loyalty_Program_ROI_Dashboard.pbix
+## 📊 Dashboard Preview
+
+## 📊 Dashboard Preview
+
+![Customer Loyalty ROI Dashboard](images/dashboard-preview.png)
+
+This interactive Power BI dashboard presents customer loyalty performance, revenue trends, discounts, reward costs, and profitability metrics.
